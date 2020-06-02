@@ -1,2 +1,3 @@
 # react-learning
-A place for me to learn about React
+
+Learning React via the tutorial on [this](https://reactjs.org/tutorial/tutorial.html) page.
